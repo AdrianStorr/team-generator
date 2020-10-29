@@ -26,7 +26,7 @@
   None
 
   ## Contributers
-  one
+  previous class assignments.
 
   ## Test
   Functional application.
