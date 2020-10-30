@@ -1,7 +1,6 @@
-# team-generator
+# Team-generator
 
-
-
+![screenshot](./Assets/images/Team.png)
 
 
   ## Table of Contents
@@ -31,7 +30,7 @@
 
   ## Test
   Functional application.
-
+  ![picture](./Assets/images/Teamgen.png)
 
 GitHub repository with a unique name and a README describing the project.
 
@@ -47,7 +46,5 @@ All tests must pass.
   Github:[AdrianStorr](https://github.com/AdrianStorr)
   
   Email :[abd,gmail.com](https://github.com/AdrianStorr)
-
-
 
 
