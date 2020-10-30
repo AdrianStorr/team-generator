@@ -30,6 +30,7 @@
 
   ## Test
   Functional application.
+  Html, Bootstrap, Javascript, node.js
   ![picture](./Assets/images/Teamgen.png)
 
 GitHub repository with a unique name and a README describing the project.
