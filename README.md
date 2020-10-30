@@ -1,5 +1,5 @@
 # Team-generator
-[video](https://drive.google.com/file/d/1PFstYZzvlo0VYxNkAucgN5vaeMG_XarT/view?usp=sharing)
+[video](https://drive.google.com/file/d/1PFstYZzvlo0VYxNkAucgN5vaeMG_XarT/view?usp=sharing)[github](https://github.com/AdrianStorr/team-generator)
 ![screenshot](./Assets/images/Teams.png)
 
 
