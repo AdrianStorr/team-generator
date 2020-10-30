@@ -1,6 +1,6 @@
 # Team-generator
 [video](https://drive.google.com/file/d/1PFstYZzvlo0VYxNkAucgN5vaeMG_XarT/view?usp=sharing)
-![screenshot](./Assets/images/Team.png)
+![screenshot](./Assets/images/Teams.png)
 
 
   ## Table of Contents
