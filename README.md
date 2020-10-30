@@ -29,7 +29,7 @@
   previous class assignments.
 
   ## Test
-  Functional application.
+  Functional application using
   Html, Bootstrap, Javascript, node.js
   ![picture](./Assets/images/Teamgen.png)
 
