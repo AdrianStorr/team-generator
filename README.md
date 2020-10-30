@@ -1,6 +1,6 @@
 # Team-generator
 
-
+![screenshot](./Assets/images/Team.png)
 
 
   ## Table of Contents
@@ -30,7 +30,7 @@
 
   ## Test
   Functional application.
-
+  ![picture](./Assets/images/Teamgen.png)
 
 GitHub repository with a unique name and a README describing the project.
 
